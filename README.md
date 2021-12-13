@@ -1,10 +1,4 @@
 Hello, World.🌹
-
-- 🔭 Hoje eu estou aprendendo programação.
-- 🌱 No momento estou estudando HTML e CSS.
-- 👯 Desenvolvimento de sites ...
-- 🤔 estou procurando ajuda com guias ...
-- 😄 Pronomes: Ele/Dele ...
 <div align="center">
   <a href="https://github.com/SrPinheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrPinheiro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
