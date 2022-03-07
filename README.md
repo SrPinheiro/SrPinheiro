@@ -2,7 +2,7 @@ Hello, World.🌹
 <div align="center">
   <a href="https://github.com/SrPinheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrPinheiro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPinheiro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
