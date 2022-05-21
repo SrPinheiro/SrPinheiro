@@ -18,7 +18,9 @@ Hello, World.🌹
     <h1> <h1>
    <a href="https://www.instagram.com/skleogp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
       
-      ![Profile](https://user-images.githubusercontent.com/94575742/169655023-4eac6f54-10e5-4f30-abf7-0f9d0dd75e7f.gif)
+     
+      
+      
 
       ![Snake animation](https://github.com/SrPinheiro/SrPinheiro/blob/output/github-contribution-grid-snake.svg)
  
