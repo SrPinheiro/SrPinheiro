@@ -2,7 +2,7 @@ Hello, World.🌹
 
 <div align="center">
   <a href="https://github.com/SrPinheiro">
-    <img height="106cm" src = "https://media3.giphy.com/media/GrPqIki36DSUvuPoki/giphy.gif?cid=790b76113dccdcdd9b0a7c2131bd48fba9d67a1003bf0812&rid=giphy.gif&ct=g"/>
+    <img height="106em" src="https://media3.giphy.com/media/GrPqIki36DSUvuPoki/giphy.gif?cid=790b76113dccdcdd9b0a7c2131bd48fba9d67a1003bf0812&rid=giphy.gif&ct=g"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrPinheiro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPinheiro&layout=compact&langs_count=7&theme=onedark"/>
 </div>
