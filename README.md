@@ -1,10 +1,10 @@
 <a href="https://github.com/SrPinheiro">
 <div align="center">
  <h1>Hello, World.🌹</h1>
- 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrPinheiro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPinheiro&layout=compact&langs_count=7&theme=onedark"/>
- 
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrPinheiro&show_icons=true&theme=github_dark&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPinheiro&layout=compact&exclude_repo=Jupyter-notebooks&theme=github_dark"/>
+
   <div align="center" style="display: inline_block"><br>
    
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
