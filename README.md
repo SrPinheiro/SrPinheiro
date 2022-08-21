@@ -26,8 +26,13 @@
 
   <div align="center"> 
     <h1> <h1>
-   <a href="https://www.instagram.com/skleogp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- </a>
+   <a href="https://www.instagram.com/skleogp/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   </a> 
+   
+   <a href="https://www.linkedin.com/in/LeonardoPinheiro-LP/" target="_blank">
+       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a> 
      <div align="center">
 <img src= "https://media1.giphy.com/media/qtwCa6mm8E3tPVQEMK/giphy.gif?cid=790b76119634ab5ee006d2dbc8d7bee65cfff416c645a644&rid=giphy.gif" width="500px" align="center">
      </div>
