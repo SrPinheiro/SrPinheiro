@@ -1,6 +1,8 @@
 <a href="https://github.com/SrPinheiro">
 <div align="center">
  <h1>Hello, World.🌹</h1>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8ESauda%C3%A7%C3%B5es+visitante.;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+Me+Chamo+Leonardo%2C+Prazer.;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8EBack-End+Developer.)](https://git.io/typing-svg)
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrPinheiro&show_icons=true&theme=github_dark&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPinheiro&layout=compact&exclude_repo=Jupyter-notebooks&theme=github_dark"/>
@@ -16,10 +18,10 @@
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    
   <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   
-   <img align="center" alt="Leo-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-   
-  <img align="center" alt="Leo-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
+  <img align="center" alt="Leo-Ruby" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  
+  <img align="center" alt="Leo-mysql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
    
  
 </div> 
