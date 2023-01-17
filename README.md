@@ -4,8 +4,8 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8ESauda%C3%A7%C3%B5es+visitante.;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+Me+Chamo+Leonardo%2C+Prazer.;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8EBack-End+Developer.)](https://git.io/typing-svg)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrPinheiro&show_icons=true&theme=github_dark&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPinheiro&layout=compact&exclude_repo=Jupyter-notebooks&theme=github_dark"/>
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrPinheiro&show_icons=true&theme=github_dark&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPinheiro&layout=compact&exclude_repo=Jupyter-notebooks&theme=github_dark"/> API saiu do AR-->
 
   <div align="center" style="display: inline_block"><br>
    
