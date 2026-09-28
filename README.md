@@ -50,21 +50,10 @@ No dia a dia, passo boa parte do tempo entre um backend em **Ruby on Rails** e i
 ## GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srpinheiro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&locale=pt-br" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srpinheiro&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&locale=pt-br" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=srpinheiro&locale=pt_BR&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&stroke=21262d" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=srpinheiro&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&title_color=58a6ff&custom_title=Atividade%20recente" alt="Activity Graph" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srpinheiro&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=12" alt="GitHub Trophies" />
-</p>
 
 <br />
 
