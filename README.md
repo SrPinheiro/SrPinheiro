@@ -81,7 +81,7 @@ No dia a dia, passo boa parte do tempo entre um backend em **Ruby on Rails** e i
 ## Vamos conversar?
 
 <p align="center">
-  Estou aberto a trocar ideias sobre projetos, código ou oportunidades.
+  Estou aberto a contato.
   <br /><br />
   <a href="https://www.linkedin.com/in/LeonardoPinheiro-LP/"><img src="https://img.shields.io/badge/LinkedIn-Leonardo_Pinheiro-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117&color=1f6feb" /></a>
   <a href="https://leonardopinheiro.com"><img src="https://img.shields.io/badge/Site-leonardopinheiro.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117&color=1f6feb" /></a>
